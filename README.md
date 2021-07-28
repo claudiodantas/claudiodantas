@@ -22,7 +22,5 @@
   <img align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=vue' height="300"/>
   <img align='left' src='https://github-readme-stats.vercel.app/api?username=claudiodantas&hide=stars&theme=vue' width='400'/>
   <img align='right' src='https://media.giphy.com/media/RVy3XU9pV1euIO3bsR/giphy.gif' width='120'/>
-  
-  <img src='https://github-readme-streak-stats.herokuapp.com/?user=claudiodantas&theme=vue' width='400'/>
 
 </div>
